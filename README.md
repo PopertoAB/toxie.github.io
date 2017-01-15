@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Tiralíneas
 
-You can use the [editor on GitHub](https://github.com/PopertoAB/toxie.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Descripción del blog
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+En este blog pondré algunas de las herramientas que personalmente uso para ir mejorando en la programación
 
-### Markdown
+## Acerca de mí
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Geek de tiempo completo, linuxero de hace muchos años y apasionado del open source.
 
-```markdown
-Syntax highlighted code block
+Si quieres conocer más de mi persona me encuentras en facebook como [@toxie.supertramp](https://fb.com/toxie.supertramp), en twitter como [@alexei_solarin](https://twitter.com/alexei_solarin) y en google plus como `+Manuel Sinhue Cuevas Andrade`
 
-# Header 1
-## Header 2
-### Header 3
+## Agradecimiento
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PopertoAB/toxie.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+En especial quiero agradecer a @mikenieva por enseñarme a programar, ya que desde hace mucho tiempo buscaba algo así y les puedo recomendar su excelente curso en [Platzi](https://platzi.com/git-github)
